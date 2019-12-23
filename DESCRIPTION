@@ -24,3 +24,5 @@ NeedsCompilation: no
 Packaged: 2019-10-29 14:39:01 UTC; ASUS
 Repository: CRAN
 Date/Publication: 2019-11-01 11:20:02 UTC
+URL: https://github.com/cran/presmTP
+BugReports: https://github.com/cran/presmTP/issues
